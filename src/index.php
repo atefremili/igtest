@@ -1,4 +1,7 @@
 <?php
 echo "v1";
-azerty22
+
+function abc(){
+    echo "test";
+}
 ?>
